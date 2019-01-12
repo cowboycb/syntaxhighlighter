@@ -1,0 +1,30 @@
+<link href='https://rawgit.com/cowboycb/syntaxhighlighter/master/shCore.css' rel='stylesheet' type='text/css'/>
+
+<link href='https://rawgit.com/cowboycb/syntaxhighlighter/master/shCoreDefault.css' rel='stylesheet' type='text/css'/>
+
+<link href='https://rawgit.com/cowboycb/syntaxhighlighter/master/shThemeDefault.css' rel='stylesheet' type='text/css'/>
+
+
+
+
+
+<script src='https://rawgit.com/cowboycb/syntaxhighlighter/master/shCore.js' type='text/javascript'/>
+
+<script src='https://rawgit.com/cowboycb/syntaxhighlighter/master/shAutoloader.js' type='text/javascript'/>
+
+<script src='https://rawgit.com/cowboycb/syntaxhighlighter/master/shBrushBash.js' type='text/javascript'/>
+
+<script src='https://rawgit.com/cowboycb/syntaxhighlighter/master/shBrushJScript.js' type='text/javascript'/>
+
+<script src='https://rawgit.com/cowboycb/syntaxhighlighter/master/shBrushSql.js' type='text/javascript'/>
+
+<script src='https://rawgit.com/cowboycb/syntaxhighlighter/master/shBrushXml.js' type='text/javascript'/>
+
+
+<script language='javascript'>
+
+SyntaxHighlighter.config.bloggerMode = true;
+
+SyntaxHighlighter.all();
+
+</script>
